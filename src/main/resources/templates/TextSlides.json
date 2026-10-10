@@ -1,0 +1,86 @@
+{
+  "name" : "TextSlides",
+  "title" : "Project 1",
+  "author" : "Name",
+  "number" : 0,
+  "presentations" : [ {
+    "name" : "Presentation1",
+    "slideWidth" : 1280,
+    "slideHeight" : 720,
+    "colorArgb" : -65536,
+    "slides" : [ {
+      "name" : "Slide1",
+      "elements" : [ {
+        "kind" : "TEXTBOX",
+        "x" : 309,
+        "y" : 146,
+        "width" : 320,
+        "height" : 140,
+        "rotateRatio" : 0,
+        "text" : "",
+        "fontFamily" : "Arial",
+        "fontStyle" : 0,
+        "baseFontSize" : 18,
+        "baseBoxWidth" : 320,
+        "baseBoxHeight" : 140,
+        "borderColorArgb" : -12808961,
+        "textColorArgb" : -16777216
+      } ]
+    }, {
+      "name" : "Slide2",
+      "elements" : [ {
+        "kind" : "TEXTBOX",
+        "x" : 289,
+        "y" : 146,
+        "width" : 320,
+        "height" : 140,
+        "rotateRatio" : 0,
+        "text" : "",
+        "fontFamily" : "Arial",
+        "fontStyle" : 0,
+        "baseFontSize" : 18,
+        "baseBoxWidth" : 320,
+        "baseBoxHeight" : 140,
+        "borderColorArgb" : -12808961,
+        "textColorArgb" : -16777216
+      } ]
+    }, {
+      "name" : "Slide3",
+      "elements" : [ {
+        "kind" : "TEXTBOX",
+        "x" : 303,
+        "y" : 147,
+        "width" : 320,
+        "height" : 140,
+        "rotateRatio" : 0,
+        "text" : "",
+        "fontFamily" : "Arial",
+        "fontStyle" : 0,
+        "baseFontSize" : 18,
+        "baseBoxWidth" : 320,
+        "baseBoxHeight" : 140,
+        "borderColorArgb" : -12808961,
+        "textColorArgb" : -16777216
+      } ]
+    }, {
+      "name" : "Slide4",
+      "elements" : [ {
+        "kind" : "TEXTBOX",
+        "x" : 305,
+        "y" : 146,
+        "width" : 320,
+        "height" : 140,
+        "rotateRatio" : 0,
+        "text" : "",
+        "fontFamily" : "Arial",
+        "fontStyle" : 0,
+        "baseFontSize" : 18,
+        "baseBoxWidth" : 320,
+        "baseBoxHeight" : 140,
+        "borderColorArgb" : -12808961,
+        "textColorArgb" : -16777216
+      } ]
+    } ]
+  } ],
+  "slides" : [ ]
+}
